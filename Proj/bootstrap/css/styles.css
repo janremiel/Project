@@ -1,0 +1,112 @@
+.container-lg{
+   
+    padding-top: 98px;
+    padding-bottom: 98px;
+    display: block;
+}
+.entries-box{
+    
+    padding: 30px;
+    
+    width: 380px;
+    height: 500px;
+    border-radius: 20px;
+     
+    background: #FFFFFF;
+    border: 1px solid #E6E6E6;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   
+
+    
+}
+.font{ font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 300;
+    display: inline-block;
+    text-align: center;
+}
+.entries-box .entries {
+   font-style: normal;
+   font-weight: 300;
+    font-size: 20px;
+    padding-right: 210px;
+   
+}
+.entries-box .add {
+    cursor: pointer;
+    font-size: 20px;
+}
+.entries-box .sub {
+    padding-right: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+ .btn {
+  
+    background: #6C63FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   
+}
+.entries-box .done {
+    position: relative;
+    left: 55px;
+    width: 94px;
+    height: 35px;
+    top: 285px;
+    border-radius: 30px;
+}
+.entries-box .input {
+    padding-left: 5px;
+   position: relative;
+   left:0px;
+   top:20px;
+    width: 319px;
+    height: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 8px;
+}
+.image{
+    position:relative;
+    left: 75px;
+    top: 80px;
+
+}
+.main{
+    position: absolute;
+     padding: 30px;
+     width: 380px;
+     height: 500px;
+     border-radius: 20px;
+     background: #FFFFFF;
+     border: 1px solid #E6E6E6;
+     box-sizing: border-box;
+     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+     bottom: 330px;
+     left:510px;
+     
+}
+.title{
+    font-style:normal;
+    font-weight: 700;
+   
+    font-size: 36px;
+    display: flex;
+}
+.output{
+    
+    width: 319px;
+    
+ 
+
+}
+.draw {
+
+border-radius: 30px;
+width: 166px;
+height: 58px;
+}
+.women{
+    
+}
